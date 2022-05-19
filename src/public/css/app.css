@@ -1,5 +1,15 @@
-h1 {
-  color: #c41d1d; }
+.card-item {
+  margin-top: 16px; }
 
-h2 {
-  color: yellow; }
+.left-sidebar {
+  background-color: black;
+  color: #fff; }
+
+.user-avatar {
+  margin-right: 4px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%; }
+
+.form-delete {
+  display: inline; }
